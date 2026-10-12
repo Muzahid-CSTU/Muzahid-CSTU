@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" alt="Banner" width="100%">
+  <img src="./banner.jpg" alt="Banner" width="100%">
 </div>
 <h1 align="center">Hi 👋, I'm Kaji Muzahidul Islam</h1>
 <h3 align="center">A passionate Competitive Programmer from BD</h3>
